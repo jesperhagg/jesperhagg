@@ -3,9 +3,9 @@
 I'm a solo builder creating products - from opportunity discovery, through market research and prototyping, to shipping code and scaling to users - using Lovable, Claude Code, Notion, Perplexity and a custom PM Operating System I design and maintain myself.
 
 ### How I work
-I built a PM Operating System repo that encodes how to think — prioritization, strategy, research, requirements — as modular, installable skills and agents. Each product repo encodes what to build, with its own domain context (CLAUDE.md) that keeps terminology and strategy cleanly separated across products.
+I built an operating system that encodes how i think and work as modular, installable skills and agents. Each product repo encodes what to build, with its own domain context (CLAUDE.md) that keeps terminology and strategy cleanly separated across products.
 Notion serves as the live data layer — Decisions, Personas, Opportunity Backlog, Tasks and Signals databases are queried dynamically per product, so every PM skill and agent operates on current context, not snapshots.
-I can spin up a new product and have my own preferred PM stack — from opportunity scoring to phased roadmap — running against it immediately. The framework scales horizontally across products without cross-contamination.
+I can spin up a new product and have my own preferred PM stack running against it immediately. The framework scales horizontally across products without cross-contamination.
 
 ### What I'm building
 #### Sagokraft - Engaging and pedagogical reading experience for children
