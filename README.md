@@ -16,7 +16,7 @@ I can spin up a new product and have my own preferred PM stack running against i
 - Independent actors manage auditions and selftapes in separate non-purpose built apps and struggle to have visibility and control of the workflow
 - Selftaped target primarily two unmet needs: visibility of who watches your selftapes and an unified view of current auditions and deadlines.
 - Testing prototypes with users
-#### Fellingpal - Regulatory compliance automation for small-scale forestry
+#### Huginn - Regulatory compliance automation for small-scale forestry
 - Every forestry owner in Sweden need to send in a felling notice before a harvest, and small-scale forest owners spend a lot of time or money on this. There is currently no tools to support this process, it is completely manual and a struggle to navigate compliance.
 - Fellingpal automates and supports this flow to reduce complexity and time spent for forestry owners and improve unit economics for forestry consultants.
 - Opportunity discovery stage.
